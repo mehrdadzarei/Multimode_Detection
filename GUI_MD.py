@@ -72,9 +72,9 @@ Best,
 KL FAMO.'''
 
         #The mail addresses and password
-        self.sender_address = 'zareimehrdad72@gmail.com'
+        self.sender_address = 'test@gmail.com'
         self.sender_pass = 'password'
-        self.receiver_address = ['mzarei@umk.pl', 'mehr.zarey@yahoo.com']#, 'pmorzynski@fizyka.umk.pl', 'zawada@fizyka.umk.pl']
+        self.receiver_address = ['mehr.zarei1@gmail.com', 'mehr.zarey@yahoo.com']
 
         #Setup the MIME
         self.message = MIMEMultipart()
